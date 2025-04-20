@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+    background-color: #f0f8ff;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #004d99;
+}
+
+/* Sidebar Styles */
+.sidebar .sidebar-content {
+    background-color: #e6f2ff;
+    color: #004d99;
+}
+
+.sidebar .sidebar-header {
+    background-color: #004d99;
+    color: white;
+}
+
+.sidebar .sidebar-item:hover {
+    background-color: #d0f0c0;
+}
+
+/* Button Styles */
+.stButton > button {
+    background-color: #004d99;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.stButton > button:hover {
+    background-color: #003d80;
+}
+
+/* File Uploader Styles */
+.stFileUploader {
+    border: 2px dashed #004d99;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Header and Title Styles */
+.stTitle {
+    color: #004d99;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* Subheader Styles */
+.stSubheader {
+    color: #004d99;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Visualization Styles */
+.plotly .plotly-graph-div {
+    border: 2px solid #004d99;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Custom Selectbox Styles */
+.css-1l02d3g {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.css-1l02d3g:hover {
+    background-color: #d0f0c0;
+}
+
+.css-1l02d3g:checked {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Markdown Styling */
+.stMarkdown {
+    color: #333;
+    line-height: 1.5;
+}
